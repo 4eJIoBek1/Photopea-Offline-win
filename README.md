@@ -1,4 +1,2 @@
 # Photopea-Offline
-Download Photopea for offline use
-
-New Link is here: https://git.nixnet.services/DUOLabs333/Photopea-Offline
+To download this one, you need to do this in releases
